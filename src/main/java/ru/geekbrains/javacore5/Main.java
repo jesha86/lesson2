@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
+
         AppData appData = new AppData();
         appData.load("hw5.txt");
 
